@@ -19,3 +19,6 @@
 # run Gaussian elimination
 > ./gau <threads_num> 
 - example: ./gau 1000
+
+# Report
+[report](https://github.com/hualiu01/ParallelComputing_pthread/blob/master/Report.pdf)
